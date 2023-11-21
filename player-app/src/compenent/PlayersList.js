@@ -1,6 +1,6 @@
 // src/PlayersList.js
 import React from 'react';
-import Player from './Player';
+import Player from './player';
 import playersData from './players';
 
 const PlayersList = () => {
